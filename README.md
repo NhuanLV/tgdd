@@ -44,8 +44,6 @@ Chi tiết sản phẩm
 Trang người dùng
 ![Trang chủ](./screenshots/Screenshot_6.png)
 
-Giỏ hàng
-![Trang chủ](./screenshots/Screenshot_7.png)
 
 Tìm kiếm/lọc/sắp xếp sản phẩm
 ![Trang chủ](./screenshots/Screenshot_8.png)
