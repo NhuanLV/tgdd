@@ -55,9 +55,3 @@ Admin: Thống kê
 
 Admin: Sản phẩm
 ![Trang chủ](./screenshots/Screenshot_10.png)
-
-Admin: Đơn hàng
-![Trang chủ](./screenshots/Screenshot_11.png)
-
-Admin: Người dùng
-![Trang chủ](./screenshots/Screenshot_12.png)
