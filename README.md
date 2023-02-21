@@ -41,10 +41,6 @@ Chi tiết sản phẩm
 Đăng ký
 ![Trang chủ](./screenshots/Screenshot_5.png)
 
-Trang người dùng
-![Trang chủ](./screenshots/Screenshot_6.png)
-
-
 Tìm kiếm/lọc/sắp xếp sản phẩm
 ![Trang chủ](./screenshots/Screenshot_8.png)
 
